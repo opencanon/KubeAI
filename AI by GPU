@@ -1,0 +1,7 @@
+The current AI approach, particularly with GPU-based AI, relies heavily on brute force to achieve what we perceive as intelligence. Techniques like CNNs, RNNs, and deep learning models are trained through immense computational power, which, when compared to the efficient intelligence of something as simple as a mosquito's brain, might seem excessive and inefficient. The energy consumption alone is staggering.
+
+We often hear that "bigger is better" in AI, with increasingly large neural networks being hailed as the path forward. However, from a philosophical standpoint, simplicity often holds the key to greatness.
+
+One significant challenge we face with GPU-based AI is the emergence of unsolvable singularities within multi-dimensional knowledge spaces. This raises a critical question: as we increase the dimensions of knowledge, do these singularities converge or diverge? My understanding is that in targeted, well-defined spaces—such as in a game like Go—we can achieve success. However, when it comes to general AI, there's still a long way to go. As the knowledge space expands, these anomalies or singularities will continue to grow, unlike in a mosquito's brain, which operates with simplicity and efficiency.
+
+In the pursuit of larger neural networks, we risk complicating things unnecessarily. While we currently see hyper-parameters scaling into the hundreds of billions, it's worth questioning whether this complexity aligns with the philosophical principle that true greatness is simple.
